@@ -15,7 +15,7 @@ Save the CSV in this folder.
 - If you've already created the format before then select it from the list. Otherwise...
 
 - Create a New Format
-- Image file name: "<First Name><Last Name>"
+- Image file name: "````<First Name><Last Name>````"
 - Leave everything else default.
 - Give it a fun name.
 - Save Format
